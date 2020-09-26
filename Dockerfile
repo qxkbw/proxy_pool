@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.7
 
 MAINTAINER jhao104 <j_hao104@163.com>
 

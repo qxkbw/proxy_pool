@@ -117,6 +117,7 @@ class GetFreeProxy(object):
         url_list = [
             'http://www.xicidaili.com/nn/',  # 高匿
             'http://www.xicidaili.com/nt/',  # 透明
+            'https://www.xicidaili.com/wn/', # https
         ]
         for each_url in url_list:
             for i in range(1, page_count + 1):
